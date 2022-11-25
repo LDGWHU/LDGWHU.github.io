@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c930f8ea2a85c58282b52631086fc2bd.js"
+  "/precache-manifest.77fcc9ad33e7fe582c6fd663235f53c2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue3-leaflet"});
